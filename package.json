@@ -5,5 +5,15 @@
   },
   "devDependencies": {
     "cypress-mochawesome-reporter": "^3.7.0"
-  }
+  },
+  "name": "sauceecommerce",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
