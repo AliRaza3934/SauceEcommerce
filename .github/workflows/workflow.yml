@@ -11,4 +11,4 @@ jobs:
           runs-on: ubuntu-latest
           steps:
             - name: Run Tests
-              run: echo "npm install cypress typescript"
+              run: npx cypress run
